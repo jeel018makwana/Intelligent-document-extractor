@@ -1,0 +1,10 @@
+2026-05-08 16:24:50.065 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:24:58.481 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:30:08.428 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:31:57.278 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:33:57.951 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:35:29.156 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:38:36.181 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:40:18.133 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 16:55:54.991 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
+2026-05-08 17:01:46.480 | INFO     | app.services.ocr_service:extract_text:20 - OCR extraction successful
